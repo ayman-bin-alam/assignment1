@@ -186,8 +186,10 @@ button {
   text-transform: capitalize;
   margin-bottom: 5px;
 }
-.place-info h3 span {
-  color: #f00;
+.addButton {
+  background-color: #f00;
+  border-style: solid;
+  color: #FFF;
 }
 
 /****                          offer-section                                     ****/
